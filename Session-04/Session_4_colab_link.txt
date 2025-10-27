@@ -1,0 +1,9 @@
+
+Basic Tensorflow
+https://drive.google.com/file/d/19R6bMczJ9VcCpaSIyXkP2dgbd1gnFU2y/view?usp=sharing
+
+CNN example
+https://drive.google.com/file/d/1cdbqEi5Ev9-c_Cz5dfSnth-gt2T_sn6-/view?usp=sharing
+
+RNN_LSTM
+https://drive.google.com/file/d/1WZgYIzVBXnxAW9Ud4wKmGpa07cYiibE_/view?usp=sharing
